@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/tail4e.feature_1.0.0.qualifier.jar" id="tail4e.feature" version="1.0.0.qualifier"/>
+</site>

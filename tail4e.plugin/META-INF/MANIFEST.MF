@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: tail4e.plugin
+Bundle-Vendor: tail4e.plugin
+Bundle-SymbolicName: tail4e.plugin
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+  org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: info.ballroomdancemusic.Activator
+Automatic-Module-Name: tail4e.plugin

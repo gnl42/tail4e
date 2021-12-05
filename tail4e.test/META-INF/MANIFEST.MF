@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: tail4e.test
+Bundle-Vendor: tail4e
+Bundle-SymbolicName: tail4e.test
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: tail4e.plugin;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.junit.jupiter.api;bundle-version="5.7.1"
+Automatic-Module-Name: tail4e.test

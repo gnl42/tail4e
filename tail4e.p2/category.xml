@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="tail4e.feature_1.0.0.qualifier.jar" id="tail4e.feature" version="1.0.0.qualifier">
+      <category name="tail4e.category"/>
+   </feature>
+   <feature url="tail4e.feature.source_1.0.0.qualifier.jar" id="tail4e.feature.source" version="1.0.0.qualifier">
+      <category name="tail4e.category"/>
+   </feature>
+   <category-def name="tail4e.category" label="tail4e Category">
+      <description>
+         tail4e Category
+      </description>
+   </category-def>
+</site>
