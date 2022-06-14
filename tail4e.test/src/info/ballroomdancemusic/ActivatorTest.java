@@ -7,7 +7,7 @@ public class ActivatorTest {
 
 	@Test
 	public void testActivatorId() {
-		Assertions.assertNotNull(Activator.PLUGIN_ID);
+		Assertions.assertNotNull(Tail4e.PLUGIN_ID);
 	}
 
 }
